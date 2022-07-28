@@ -5,6 +5,8 @@
   </div>
 </template>
 
+<script src="https://unpkg.com/vue@next"></script>
+<script src="https://unpkg.com/view-ui-plus"></script>
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
 
